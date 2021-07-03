@@ -1,0 +1,10 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Entity\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Entity\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Entity\obj\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Entity\obj\Debug\Entity.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Entity\bin\Debug\Entity.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Entity\bin\Debug\Entity.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Entity\obj\Debug\Entity.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Entity\obj\Debug\Entity.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

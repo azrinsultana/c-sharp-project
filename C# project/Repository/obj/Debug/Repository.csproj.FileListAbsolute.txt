@@ -1,0 +1,18 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\bin\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\bin\Debug\Repository.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\bin\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\bin\Debug\Interfaces.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\obj\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Repository\obj\Debug\Repository.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\bin\Debug\Repository.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\bin\Debug\Repository.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\bin\Debug\Entity.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\bin\Debug\Interfaces.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\bin\Debug\Entity.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\bin\Debug\Interfaces.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\obj\Debug\Repository.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61229429-DA31-47C8-A57A-48547ED285BD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App</RootNamespace>
+    <AssemblyName>Application</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adddoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adddoctor.Designer.cs">
+      <DependentUpon>Adddoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddReceptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddReceptionist.Designer.cs">
+      <DependentUpon>AddReceptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHomePage.Designer.cs">
+      <DependentUpon>AdminHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckHealthStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckHealthStatus.Designer.cs">
+      <DependentUpon>CheckHealthStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart1.Designer.cs">
+      <DependentUpon>DietChart1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart10.Designer.cs">
+      <DependentUpon>DietChart10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart2.Designer.cs">
+      <DependentUpon>DietChart2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart3.Designer.cs">
+      <DependentUpon>DietChart3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart4.Designer.cs">
+      <DependentUpon>DietChart4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart5.Designer.cs">
+      <DependentUpon>DietChart5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart6.Designer.cs">
+      <DependentUpon>DietChart6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart7.Designer.cs">
+      <DependentUpon>DietChart7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart8.Designer.cs">
+      <DependentUpon>DietChart8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DietChart9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DietChart9.Designer.cs">
+      <DependentUpon>DietChart9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorAppointmentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorAppointmentList.Designer.cs">
+      <DependentUpon>DoctorAppointmentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDoctorConsultingTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDoctorConsultingTime.Designer.cs">
+      <DependentUpon>AddDoctorConsultingTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorHomePage.Designer.cs">
+      <DependentUpon>DoctorHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorLoginForm.Designer.cs">
+      <DependentUpon>DoctorLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorProfile.Designer.cs">
+      <DependentUpon>DoctorProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HealthReportTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HealthReportTable.Designer.cs">
+      <DependentUpon>HealthReportTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFormReceptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFormReceptionist.Designer.cs">
+      <DependentUpon>LoginFormReceptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagePatient.Designer.cs">
+      <DependentUpon>ManagePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationPatient.Designer.cs">
+      <DependentUpon>RegistrationPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceptionistHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceptionistHomePage.Designer.cs">
+      <DependentUpon>ReceptionistHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceptionistProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceptionistProfile.Designer.cs">
+      <DependentUpon>ReceptionistProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetAppointment.Designer.cs">
+      <DependentUpon>SetAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAllDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAllDoctor.Designer.cs">
+      <DependentUpon>ViewAllDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAllReceptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAllReceptionist.Designer.cs">
+      <DependentUpon>ViewAllReceptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientFromDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPatientFromDoctor.Designer.cs">
+      <DependentUpon>ViewPatientFromDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomePage.Designer.cs">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Adddoctor.resx">
+      <DependentUpon>Adddoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddReceptionist.resx">
+      <DependentUpon>AddReceptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHomePage.resx">
+      <DependentUpon>AdminHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckHealthStatus.resx">
+      <DependentUpon>CheckHealthStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart1.resx">
+      <DependentUpon>DietChart1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart10.resx">
+      <DependentUpon>DietChart10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart2.resx">
+      <DependentUpon>DietChart2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart3.resx">
+      <DependentUpon>DietChart3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart4.resx">
+      <DependentUpon>DietChart4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart5.resx">
+      <DependentUpon>DietChart5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart6.resx">
+      <DependentUpon>DietChart6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart7.resx">
+      <DependentUpon>DietChart7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart8.resx">
+      <DependentUpon>DietChart8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DietChart9.resx">
+      <DependentUpon>DietChart9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorAppointmentList.resx">
+      <DependentUpon>DoctorAppointmentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDoctorConsultingTime.resx">
+      <DependentUpon>AddDoctorConsultingTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorHomePage.resx">
+      <DependentUpon>DoctorHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorLoginForm.resx">
+      <DependentUpon>DoctorLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorProfile.resx">
+      <DependentUpon>DoctorProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HealthReportTable.resx">
+      <DependentUpon>HealthReportTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFormReceptionist.resx">
+      <DependentUpon>LoginFormReceptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagePatient.resx">
+      <DependentUpon>ManagePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationPatient.resx">
+      <DependentUpon>RegistrationPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReceptionistHomePage.resx">
+      <DependentUpon>ReceptionistHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceptionistProfile.resx">
+      <DependentUpon>ReceptionistProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetAppointment.resx">
+      <DependentUpon>SetAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAllDoctor.resx">
+      <DependentUpon>ViewAllDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAllReceptionist.resx">
+      <DependentUpon>ViewAllReceptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientFromDoctor.resx">
+      <DependentUpon>ViewPatientFromDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomePage.resx">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{591c7040-2b48-4152-a62e-46a7c5ff7ee3}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interfaces\Interfaces.csproj">
+      <Project>{662dda83-498e-4640-9d4b-831990bb3b27}</Project>
+      <Name>Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Project>{0276e7ce-95a6-4c22-a1cb-3f21fbf9a56b}</Project>
+      <Name>Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Appointmnet_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor_icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DoctorList_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ManagePatient.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ManagePatient1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor Home page1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Receptionist_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Receptionist_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receptionist_icon transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registrationFormImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registrationFormImage1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registrationFormImage2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

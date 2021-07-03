@@ -1,0 +1,14 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Interfaces\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Interfaces\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Interfaces\bin\Debug\Interfaces.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Interfaces\bin\Debug\Interfaces.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Interfaces\bin\Debug\Entity.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Interfaces\bin\Debug\Entity.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Interfaces\obj\Debug\Interfaces.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Interfaces\obj\Debug\Interfaces.pdb

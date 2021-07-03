@@ -1,0 +1,36 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\App.csproj.GenerateResource.Cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\App.LoginForm.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\bin\Debug\Application.exe
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\bin\Debug\Application.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\bin\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\bin\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\bin\Debug\Interfaces.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\bin\Debug\Repository.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\App.Properties.Resources.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\Application.exe
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\Application.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\App.HomePage.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\App.ManageEmployeeForm.resources
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.Properties.Resources.resources
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.WelcomePage.resources
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.csproj.GenerateResource.Cache
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\bin\Debug\Application.exe
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\bin\Debug\Application.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\bin\Debug\Entity.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\bin\Debug\Interfaces.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\bin\Debug\Repository.dll
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\bin\Debug\Entity.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\bin\Debug\Interfaces.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\bin\Debug\Repository.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\Application.exe
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\Application.pdb
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.LoginForm.resources
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.ManagePatient.resources
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.ReceptionistHomePage.resources
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.ReceptionistProfile.resources
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.DoctorDetails.resources
+E:\Education\Fall 2019 6th semester\C#\Final\DiabetesCare\Application\obj\Debug\App.RegistrationPatient.resources

@@ -1,0 +1,4 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\Application.LoginForm.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\Application.Properties.Resources.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\G\SampleManagementSystem\Application\obj\Debug\Application.csproj.GenerateResource.Cache
